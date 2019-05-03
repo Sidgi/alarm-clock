@@ -8,6 +8,8 @@
 
 * Set the data and it will play song at that time
 
+# How to use 
+* Focus your cursor on input. Set the time when you want to play music with arrow keys. After you set time press - set alarm. To stop music press stop alarm. 
 # Achivements 
 
 * Learned how to use setInterval
